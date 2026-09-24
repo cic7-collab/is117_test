@@ -1,4 +1,4 @@
-# Issue 4 — The White T-Shirt Case Study
+# Chapter 4 — The White T-Shirt Case Study
 
 ## One Shirt, Four Different Meanings
 

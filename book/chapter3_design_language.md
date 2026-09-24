@@ -1,4 +1,4 @@
-# Issue 3 — Modernism, Postmodernism, and Visual Language
+# Chapter 3 — Modernism, Postmodernism, and Visual Language
 
 ## Why This Matters
 

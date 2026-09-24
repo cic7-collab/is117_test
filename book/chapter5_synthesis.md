@@ -1,4 +1,4 @@
-# Issue 5 — Synthesis: Directing AI With Meaning
+# Chapter 5 — Synthesis: Directing AI With Meaning
 
 ## The Three Lenses
 
